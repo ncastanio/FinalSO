@@ -1,1 +1,1 @@
-# Comandos Utilizados en el punto A
+# apagar la  la VM
